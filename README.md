@@ -163,4 +163,4 @@ MindBott AI
 
 ---
 
-For more information about MindBot AI and our mission to improve mental health support through AI, visit [https://akshta31.github.io/MindBotAI_Website/].
+For more information about MindBot AI and our mission to improve mental health support through AI, visit [https://sanikawattamwar09-arch.github.io/MindBotAI_Website/].
